@@ -1,0 +1,9 @@
+Build
+_build
+blib
+.svn
+*.swp
+*.bak
+*META.*
+Makefile.PL
+*.gz
